@@ -200,6 +200,9 @@ Gem::Specification.new do |s|
     "lib/generators/somatics/settings_controller/templates/view_index.html.erb",
     "lib/generators/somatics/settings_controller/templates/view_new.html.erb",
     "lib/generators/somatics/settings_controller/templates/view_show.html.erb",
+    "lib/somatics.rb",
+    "somatics.gemspec",
+    "somatics3.gemspec",
     "templates/somatics.rb",
     "test/helper.rb",
     "test/test_somatics3-generators.rb"
