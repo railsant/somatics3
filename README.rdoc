@@ -18,11 +18,11 @@ Somatics3 Support Rails 3 Now!
 
 == Getting Started
 
-1. Install \Somatics at the command prompt if you haven't yet:
+1. Install Somatics at the command prompt if you haven't yet:
 
     gem install somatics3-generators
 
-2. At the command prompt, create a new \Somatics application:
+2. At the command prompt, create a new Somatics application:
 
     somatics new myapp
 
@@ -49,6 +49,7 @@ Somatics3 Support Rails 3 Now!
 * Twitter commit updates: http://twitter.com/somaticsapp
 * Discussion group for developers: http://groups.google.com/group/somaticsapp
 * IRC channel: #somaticsapp on irc.freenode.net
+* Generator Documentation: https://docs.google.com/document/pub?id=1E_-KnAokE58-fyS09vqDI6Cke2iFUssyszPfrUwsNQg
 
 === Generate the Admin Model
 
@@ -66,7 +67,7 @@ TODO
 
 === For Developers
 
-TODO
+Documentation for Template File Writing:  https://docs.google.com/document/pub?id=1yoUtI83bVCfze4F9J189q1QoZF1QCQWhQniQ_tB-3z8
 
 === Features
 
